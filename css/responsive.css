@@ -1,0 +1,112 @@
+@media (min-width:320px) and (max-width:766px) {
+
+	.navbar {
+     padding: 10px;
+    width: 100%;
+}
+
+#banner {
+    background-image: url(../img/Banner.png);
+    height: 200px;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+}
+.banner_text{
+    margin: 0px;
+    transform: translateY(0%);
+    padding: 15px 30px;
+    color: #fff;
+    text-align: left;
+    width: 77%;
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 30px;
+    padding-top: 55px;
+    padding-left:0px;
+}
+
+.iasc_logo{
+	position: absolute;
+    top: 40px;
+    right: 20px;
+    text-align: right;
+}
+.iasc_logo img {
+    width: 60%;
+}
+.discover {
+	font-size: 35px;
+}
+.timeline {
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.intro_heading h2 {
+    line-height: 2;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.spacial {
+    width: 100%;
+   
+    font-size: 20px;
+    
+}
+.m_b_100 ,#how_to {
+    padding-top: 50px;
+}
+
+.team-item {
+    width: 80%;
+    margin: auto;
+        margin-bottom: 47px;
+}
+.list ul {
+    
+    width: 100%;
+ 
+}
+.list {
+   
+    flex-wrap: wrap;
+}
+
+.sub_heading h3, .register_self_text small {
+    color: #f7941d;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: none;
+}
+.register_self {
+   
+    flex-wrap: wrap;
+}
+.register_self_text{
+	width:100%;
+}
+.register_self_btn a {
+ 
+    margin-top: 20px;
+
+}
+.begin {
+ 
+    FONT-SIZE: 25px;
+     
+}
+
+
+.at_mobile{
+     display: block !important;
+         margin-bottom: 30px !important;
+}
+.at_desktop{
+      display: none;
+    
+}
+.list ul h2 {
+    color: #ff8500;
+    font-size: 20px;
+}
+}
